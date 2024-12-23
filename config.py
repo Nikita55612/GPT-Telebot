@@ -4,7 +4,7 @@
 # Основной телеграмм бот
 MAIN_TELEGRAM_API_KEY = ""
 # Тестовый телеграмм бот
-TEST_TELEGRAM_API_KEY = "5784668759:AAEebBmBdCUXUX_MyjU5mMpsJp8LQx7tchQ"
+TEST_TELEGRAM_API_KEY = ""
 # !!!Присвоение бота (str or TELEGRAM_KEY obj)
 TELEGRAM_API_KEY = TEST_TELEGRAM_API_KEY
 # ID телеграмм канала, в котором будет проверяться подписка
